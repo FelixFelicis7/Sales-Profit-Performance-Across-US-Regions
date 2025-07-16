@@ -15,4 +15,8 @@ Insights are provided across the following key areas:
 
 # Data Structure
 
-Data Structure as seen below consists of four tables: Orders, Customers, Location, and Products
+Data Structure as seen below consists of four tables: Orders, Customers, Location, and Products.
+<p align="center">
+  <img src="plots/data_structure.png">
+</p>
+
