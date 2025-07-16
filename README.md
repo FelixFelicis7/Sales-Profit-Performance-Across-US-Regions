@@ -21,3 +21,6 @@ Data Structure as seen below consists of four tables: Orders, Customers, Locatio
 </p>
 
 # Executive Summary
+<p align="center">
+  <img src="plots/sales_dashboard.png">
+</p>
