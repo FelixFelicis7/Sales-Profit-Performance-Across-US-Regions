@@ -20,3 +20,4 @@ Data Structure as seen below consists of four tables: Orders, Customers, Locatio
   <img src="plots/data_structure.png">
 </p>
 
+# Executive Summary
