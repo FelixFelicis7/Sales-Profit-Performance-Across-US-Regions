@@ -29,3 +29,7 @@ Below is the Tableau dashboard overview. Additional examples and detailed analys
 <p align="center">
   <img src="plots/sales_dashboard.png">
 </p>
+
+#### Sales & Profit Trends
+
+- 
