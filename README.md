@@ -4,14 +4,11 @@ This project delivers a comprehensive Tableau solution designed to empower sales
 
 Insights are provided across the following key areas:
 
-- Metrics & Trends Overview: Year‑over‑year sales & profit performance analysis to identify growth opportunities and seasonal patterns.
-- KPI Snapshot: High‑level summary of Sales and Profit indicators.
-- Sales Trends: Time‑series analysis highlighting monthly and weekly fluctuations in revenue and profitability.
+- Sales Trends: Year‑over‑year sales & profit performance analysis to identify growth opportunities and seasonal patterns.
 - Product Sub‑Category Comparison: Side‑by‑side view of profits and sales performance across product sub‑categories.
-- Customer Insights Dashboard: Deep dive into customer segments, top accounts, and retention metrics.
+- Customer Value Dashboard: Deep dive into customer segments by customer lifetime value
 
-> Note: This project was originally created as part of a tutorial by YouTuber Name and has been adapted here for demonstration purposes.
-
+> Note: The original sales dashboard was created as part of a tutorial by DataWithBarbara. Inspired by this, I developed my own enhanced version with additional metrics and custom visuals.
 
 # Data Structure
 
@@ -27,7 +24,7 @@ In 2023, sales followed a distinctive two‑phase pattern: a fluctuating first h
 Below is two Tableau dashboards for sales and customers overview. Additional examples and detailed analyses appear throughout the report. You can download the interactive dashboard from the repository for further exploration.
 
 <p align="center">
-  <img src="plots/sales_dashboard.png">
+  <img src="dashboards/Customer Value Dashboard.png">
 </p>
 
 #### Sales & Profit Trends
@@ -42,3 +39,5 @@ Below is two Tableau dashboards for sales and customers overview. Additional exa
 - Phones consistently delivered the highest sales year over year. While tables also had relatively strong sales, they still generated negative profit for three consecutive years, likely due to high associated costs. Similarly, bookcases and office supplies remained unprofitable over the same period.
 
 #### Customer Segmentation: Value & Geography
+
+- Average profit by top 5% customer lifetime value reached $2.8K, which is almost three times then next 15%. But 
