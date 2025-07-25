@@ -21,7 +21,7 @@ Data Structure as seen below consists of four tables: Orders, Customers, Locatio
 
 In 2023, sales followed a distinctive two‑phase pattern: a fluctuating first half and a stabilizing second half. During the first half, sales plunged to their lowest point in February, surged by 248% year‑over‑year in January, and then dropped 35% in May. Profit trends in Q1 were even more volatile. March saw a remarkable 230% year‑over‑year profit increase, only to be followed by a 72% downturn in April. After this roller‑coaster start, profits began a steady climb through the second half of the year, mirroring the smoother sales recovery.
 
-Below is two Tableau dashboards for sales and customers overview. Additional examples and detailed analyses appear throughout the report. You can download the interactive dashboard from the repository for further exploration.
+Below is Tableau dashboard for customers overview(You can find Sales Dashboard in the folder). Additional examples and detailed analyses appear throughout the report. You can download the interactive dashboard from the repository for further exploration.
 
 <p align="center">
   <img src="Dashboards/Customer Value Dashboard.png" width="800">
