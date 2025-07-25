@@ -24,7 +24,7 @@ In 2023, sales followed a distinctive two‑phase pattern: a fluctuating first h
 Below is two Tableau dashboards for sales and customers overview. Additional examples and detailed analyses appear throughout the report. You can download the interactive dashboard from the repository for further exploration.
 
 <p align="center">
-  <img src="dashboards/Customer Value Dashboard.png">
+  <img src="Dashboards/Customer Value Dashboard.png">
 </p>
 
 #### Sales & Profit Trends
