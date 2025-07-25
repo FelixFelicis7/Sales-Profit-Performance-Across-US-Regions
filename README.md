@@ -40,4 +40,5 @@ Below is two Tableau dashboards for sales and customers overview. Additional exa
 
 #### Customer Segmentation: Value & Geography
 
-- Average profit by top 5% customer lifetime value reached $2.8K, which is almost three times then next 15%. But 
+- In 2023, the top 5% of customers by lifetime value generated an average profit of $1.1K per customer, contributing a total of $41.9K in profit—the highest among all customer segments, suggesting they are your most loyal or highest-spending segment.
+- California ($76.2K), New York ($62.6K), and Washington ($41.9K) drove the highest revenue contributions, while other states lagged significantly. This highlights a clear regional imbalance and over-reliance on these three markets. To mitigate risk and sustain growth, diversifying into untapped regions should be a strategic priority.
