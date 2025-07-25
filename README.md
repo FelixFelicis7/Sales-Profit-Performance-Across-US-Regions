@@ -24,19 +24,21 @@ In 2023, sales followed a distinctive two‑phase pattern: a fluctuating first h
 Below is two Tableau dashboards for sales and customers overview. Additional examples and detailed analyses appear throughout the report. You can download the interactive dashboard from the repository for further exploration.
 
 <p align="center">
-  <img src="Dashboards/Customer Value Dashboard.png">
+  <img src="Dashboards/Customer Value Dashboard.png" width="800">
 </p>
 
 #### Sales & Profit Trends
 
 - The company's sales peaked in November 2023 with 1,687 orders totalling $118K monthly revenue. This corresponds to seasonal demand tied to the holiday shopping season(Black Friday, Cyber Monday), with lowered sales in October and December.
-- Profit fluctuated year-to-year, reaching just $10K in November 2023. This highlights how holiday promotions reduced margins, driven by higher operating costs and a low-margin product mix.
--
-- If detailed cost data is available, we can further analyze the customer acquisition cost (CAC).
+- Profit fluctuated year-to-year, reaching just $10K in November 2023. This highlights how holiday promotions reduced margins, driven by higher operating costs and a low-margin product mix. If detailed cost data is available, we can further analyze the customer acquisition cost (CAC).
 
 #### Product Performance
 
 - Phones consistently delivered the highest sales year over year. While tables also had relatively strong sales, they still generated negative profit for three consecutive years, likely due to high associated costs. Similarly, bookcases and office supplies remained unprofitable over the same period.
+
+<p align="center">
+  <img src="plots/Sales & Profit By Category.png"width="600">
+</p>
 
 #### Customer Segmentation: Value & Geography
 
